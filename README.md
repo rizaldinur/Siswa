@@ -4,4 +4,5 @@
 *ini hanya test*
 - Ayam
 - Gorenmg
-- Spesial
+- Krispi
+- Pedas
